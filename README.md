@@ -7,7 +7,7 @@ This tool was strictly developed to demonstrate how straightforward it can be to
 - If the bot doesn't work then open command panel and type pip install colorama
 
 
-1. Run aizer.py
+1. Run aizer.exe
 2. Paste the Discord Token
 3. Discord server's ID the message was posted in.
 4. Paste the channel ID.
@@ -17,13 +17,12 @@ This tool was strictly developed to demonstrate how straightforward it can be to
 
 
 # DEVELOPER 
-AIZER.4SURE#0
-MOHIT.4SURE#0
+aizer.fr#0
 
 # SERVER 
-JOIN :- https://discord.gg/coderz
+JOIN :- https://discord.gg/programmer
 
 
-# FUCK SKIDS 
+
 
 
